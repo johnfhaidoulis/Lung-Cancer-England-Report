@@ -13,7 +13,7 @@ The report constitutes a combination of 2024 and 2025 Lung Cancer data from the 
 * A distinct report is publicly available for each year with broad trends described. However some metrics (including some new ones in 2025 such as the deprivation index) were not included in these reports.
 * I set out to supplement the report with additional information: To compare regional NHS trust differences in one-year survival, deprivation correlation, nurse specialist observations (LCNS), and to provide more detail on an infrequent yet fast progressing cancer (SCLC type) cancer changes. 
 * The data for the 2024 and 2025 spreadsheets was recorded in 2022 and 2023, respectively.
-* The .
+* The .pbix file can be downloaded and interacted with in MS Power BI desktop.
 
 ###Disclaimer
 * This is an independent project created for educational and analytical purposes. While the insights are based on official data, it should not be used as a substitute for clinical decision-making or policy guidance.
