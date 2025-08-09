@@ -12,7 +12,7 @@ Lung Cancer (small-cell lung cancer type) England (2024-2025) Report.
 The report constitutes a combination of 2024 and 2025 Lung Cancer data from the National Lung Cancer Audi State of theNation Report 2025
 * A distinct report is publicly available for each year with broad trends described. However some metrics (including some new ones in 2025 such as the deprivation index) were not included in these reports.
 * I set out to supplement the report with additional information: To compare regional NHS trust differences in one-year survival, deprivation correlation, nurse specialist observations (LCNS), and to provide more detail on an infrequent yet fast progressing cancer (SCLC type) cancer changes. 
-* The data for each report is from the years 2023 and 2022, respectively.
+* The data for the 2024 and 2025 spreadsheets was recorded in 2022 and 2023, respectively.
 
 ## Report and Insights
 
@@ -41,6 +41,9 @@ The report constitutes a combination of 2024 and 2025 Lung Cancer data from the 
 
 ## References:
 
-* Data was downloaded from the National Lung Cancer Audi State of the Nation Report 2025 & 2024.
+* Data was downloaded from the National Lung Cancer Audi State of the Nation Report 2025 & 2024. (https://www.data.gov.uk/dataset/40fd7847-4726-41ad-a9f1-46b62469533a/national-lung-cancer-audit-state-of-the-nation-report-2025, https://www.data.gov.uk/dataset/62939921-8557-4f6e-a5c7-b34d46471619/national-lung-cancer-audit-state-of-the-nation-report-2024)
+* Contains public sector information licensed under the Open Government Licence v3.0. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+
 * SCLC cancer image was copied from Cleveland Clinic webpage.
 
