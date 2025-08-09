@@ -38,7 +38,7 @@ The report constitutes a combination of 2024 and 2025 Lung Cancer data from the 
 
 ## Limitations
 
-* The report would improve and explain regional differences with regional funding information (Outside scope of report)
+* The report would benefit from regional differences with regional funding information to explain specific trends (Outside scope of report)
 * Additional data from 2021 and earlier to allow me to better compare trends. This data was not accessible.
 * Additional raw data from each practice is necessary to make predictive models, rather only one total number and percentage for each factor was published. 
 
