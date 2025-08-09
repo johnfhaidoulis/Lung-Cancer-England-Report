@@ -20,7 +20,7 @@ The report constitutes a combination of 2024 and 2025 Lung Cancer data from the 
 
 ![Report](Screenshot1.jpg)
 
-* Considering there was a similar increase in the overall number of patients between 2022 and 2023 there was a similar one-year survival increase.
+* Considering there was a similar increase in the overall number of patients between 2022 and 2023 there was a similar one-year survival increase. Tooltips were added for each graph to display the percentage change.
 * NHS regions were ranked by lung cancer one-year surival; London hospitals provided the highest One year survival rate. A slider is provided to adjust the rank to compare the percentile position of specific regions.
 
 ![PercentileRank](Screenshot2.jpg)
