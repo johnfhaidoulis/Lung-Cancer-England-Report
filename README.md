@@ -23,12 +23,12 @@ The report constitutes a combination of 2024 and 2025 Lung Cancer data from the 
 
 * The data from both years was processed, appended, and semantic models were prepared for data that was common between years.
 
-![Report](Screenshot1.jpg)
+![Report](Screenshot1Final.jpg)
 
 * Considering there was a similar increase in the overall number of patients between 2022 and 2023 there was a similar one-year survival increase. Tooltips were added for each graph to display the percentage change.
 * NHS regions were ranked by lung cancer one-year surival; London hospitals provided the highest One year survival rate. A slider is provided to adjust the rank to compare the percentile position of specific regions.
 
-![PercentileRank](Screenshot2.jpg)
+![PercentileRank](Screenshot2Final.jpg)
 
 ### SCLC cancer type 
 * SCLC rates have increased by 6% from 2022 to 2023. Despite accounting for less than 15% of lung cancer cases worldwide, SCLC cancer is a fast progressing and late presenting type of cancer. This information wasn't displayed in the official report so I thought I would delve into it here. 
